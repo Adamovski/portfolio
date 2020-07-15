@@ -36,7 +36,7 @@ const Header = ({ isVisible }) => {
         <Slide>
           <h1>ADAM TARNOWSKI</h1>
           <p>
-            React DEVELOPER
+            FRONT-END DEVELOPER
             <br />
             <a href="https://github.com/Adamovski" target="tab">
               <FontAwesomeIcon className="icon" icon={faGithub} />

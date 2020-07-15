@@ -55,10 +55,10 @@ const ProjectGrid = () => {
     <GridWrapper>
       <div className="grid">
         <ProjectCard>
-          <h4>The Cloth Exchange</h4>
-          <a target="tab" href="https://cloth-exchange.web.app/">
+          <h4>The Plant Exchange</h4>
+          <a target="tab" href="https://the-plant-exchan.web.app/">
             <img
-              src={require("../assets/images/Screenshot 2020-06-09 at 15.35.31.png")}
+              src={require("../assets/images/Screenshot 2020-06-10 at 16.20.00.png")}
             ></img>
           </a>
           <p className="description">
